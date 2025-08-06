@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://your-banner-image-link.com" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Jensi Kakdiya</h1>
 
