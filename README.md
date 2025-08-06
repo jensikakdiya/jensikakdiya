@@ -63,6 +63,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jensikakdiya&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
-</p>
