@@ -3,7 +3,7 @@
 
 <p align="center">
   🎓 M.Sc. Data Science Student at Marwadi University <br>
-  📊 Passionate about Data Analytics, Machine Learning, and Full Stack Development <br>
+  📊 Passionate about Data Analytics, Machine Learning, and AI <br>
   🌱 Currently exploring Deep Learning, Flask APIs, and Power BI
 </p>
 
@@ -19,11 +19,6 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn)
 
-### 💻 Web & Programming
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
