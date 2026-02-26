@@ -43,12 +43,6 @@
 - ✋ **[Hand Gesture & Sign Language Recognition](https://github.com/jensikakdiya/Hand-signals-recognition-)**  
   A real-time system built with **Python, OpenCV, MediaPipe, and Machine Learning** to recognize hand gestures and sign language symbols via webcam.---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jensikakdiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
- 
-</p>
 
 ---
 
