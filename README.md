@@ -40,6 +40,8 @@
 - 🔐 **[File Encryption & Decryption](https://github.com/jensikakdiya/file-encryption-and-decryption)**  
   A Python + PHP tool to encrypt and decrypt files using AES for enhanced data security.
 
+- - ✋ **[Hand Gesture & Sign Language Recognition](https://github.com/jensikakdiya/hand-gesture-sign-recognition)**  
+  *A real-time system built with **Python, OpenCV, MediaPipe, and Machine Learning** to recognize hand gestures and sign language symbols via webcam.*
 ---
 
 ## 📈 GitHub Stats
