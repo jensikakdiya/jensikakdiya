@@ -42,6 +42,18 @@
 
 ---
 
+## 📜 Certifications
+- 🏅 Advanced Statistics and Data Mining for Data Science  
+- 🏅 Machine Learning using Python  
+- 🏅 Introduction to Artificial Intelligence  
+- 🏅 Generative AI  
+- 🏅 Power BI Data Analytics  
+
+👉 View all certificates here:  
+🔗 https://github.com/jensikakdiya/certifications
+
+---
+
 ## 🚀 Projects
 
 - 📚 **[Bookshop Management System](https://github.com/jensikakdiya/bookshop-management)**  
