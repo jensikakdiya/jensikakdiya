@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 M.Sc. Data Science Student at Marwadi University <br>
-  📊 Aspiring Data Scientist with strong interest in Machine Learning, Computer Vision, and Analytics <br>
-  🌱 Currently learning Deep Learning, Flask APIs, and Power BI
+  📊 Passionate about Machine Learning, Computer Vision, and Data Analytics <br>
+  🌱 Currently developing skills in Deep Learning, Flask APIs, and Power BI
 </p>
 
 ---
@@ -17,13 +17,28 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?logo=google&logoColor=white)
+
+---
+
+### 📊 Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+---
 
 ### ⚙️ Tools & Platforms
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
 
 ---
 
